@@ -12,6 +12,10 @@ Install:
 * [Gulp](http://gulpjs.com/).
 * [mbed CLI](https://github.com/ARMmbed/mbed-cli) and its dependencies.
 
+### Patching mbed-js-gulp
+
+In `mbed-js-gulp\tmpl\main.cpp.tmpl` change `Serial` into `RawSerial` and move it into global scope and to the top of the file.
+
 ## Build
 
 1. Run `npm install`.
