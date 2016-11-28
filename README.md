@@ -2,6 +2,8 @@
 
 JavaScript REPL (Read-Eval-Print-Loop) for mbed OS 5.
 
+<img src="img/repl.png" alt="Awesome stuff" width="440">
+
 ## Dependencies
 
 Install:
