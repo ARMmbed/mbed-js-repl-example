@@ -1,0 +1,25 @@
+{
+  "name": "mbed-js-repl-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janjongboom/mbed-js-repl-example.git"
+  },
+  "author": "Jan Jongboom <Jan.Jongboom@arm.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/janjongboom/mbed-js-repl-example/issues"
+  },
+  "homepage": "https://github.com/janjongboom/mbed-js-repl-example#readme",
+  "dependencies": {
+    "mbed-js-repl": "janjongboom/mbed-js-repl"
+  },
+  "devDependencies": {
+    "mbed-js-gulp": "ARMmbed/mbed-js-gulp"
+  }
+}
