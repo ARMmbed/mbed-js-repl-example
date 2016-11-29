@@ -14,7 +14,7 @@ Install:
 
 ### Patching mbed-js-gulp
 
-In `mbed-js-gulp\tmpl\main.cpp.tmpl` change `Serial` into `RawSerial` and move it into global scope and to the top of the file.
+This application depends on [this pull request](https://github.com/ARMmbed/mbed-js-gulp/pull/9) to mbed-js-gulp.
 
 ## Build
 
