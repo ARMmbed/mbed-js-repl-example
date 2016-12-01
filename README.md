@@ -2,7 +2,7 @@
 
 JavaScript REPL (Read-Eval-Print-Loop) for mbed OS 5.
 
-<img src="img/repl.png" alt="Awesome stuff" width="440">
+<img src="img/repl.png" alt="Awesome stuff" width="536">
 
 ## Dependencies
 
@@ -14,7 +14,7 @@ Install:
 
 ### Patching mbed-js-gulp
 
-This application depends on [this pull request](https://github.com/ARMmbed/mbed-js-gulp/pull/9) to mbed-js-gulp.
+This application depends on [this pull request](https://github.com/jerryscript-project/jerryscript/pull/1458) to JerryScript (manually patch the `build/jerryscript` folder).
 
 ## Build
 
