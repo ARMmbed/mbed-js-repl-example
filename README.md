@@ -12,10 +12,6 @@ Install:
 * [Gulp](http://gulpjs.com/).
 * [mbed CLI](https://github.com/ARMmbed/mbed-cli) and its dependencies.
 
-### Patching mbed-js-gulp
-
-This application depends on [this pull request](https://github.com/jerryscript-project/jerryscript/pull/1458) to JerryScript (manually patch the `build/jerryscript` folder).
-
 ## Build
 
 1. Run `npm install`.
