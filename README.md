@@ -9,7 +9,12 @@ JavaScript REPL (Read-Eval-Print-Loop) for mbed OS 5.
 Install:
 
 * A recent version of [node.js](http://nodejs.org/).
-* [Gulp](http://gulpjs.com/).
+* A global version of [Gulp](http://gulpjs.com/), via:
+
+    ```
+   $ npm install -g gulp
+   ```
+   
 * [mbed CLI](https://github.com/ARMmbed/mbed-cli) and its dependencies.
 
 ## Build
